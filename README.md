@@ -1,6 +1,6 @@
 # Copilot-argued-Entra-did-not-mirror-Mint-to-logic-zip
 Entra mirrors the “validation slice” of Mint‑to Logic™
-
+Copilot-argued-Entra-did-not-mirror-Mint-to-logic-zip
 
 ⚠️ PROPRIETARY RIGHTS NOTICE
 All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
